@@ -1,4 +1,8 @@
 ## Hi there 👋
+## I specialise in .Net development
+## I have built both desktop and web applications using .Net
+## I have crated a game in my free time using GameMaker Studio 2
+## Bachelors in IT & Information systems at UiA (Year 3)
 
 <!--
 **JosefBurkan/JosefBurkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
